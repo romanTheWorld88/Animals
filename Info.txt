@@ -1,0 +1,3 @@
+ git remote add Animals https://github.com/romanTheWorld88/Animals.git
+ git commit -m "All"
+ git push
